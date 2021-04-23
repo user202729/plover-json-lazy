@@ -1,2 +1,2 @@
 # plover-json-lazy
-Lazily load JSON dictionaries for Plover to improve startup time.
+Plover dictionary plugin to load JSON dictionaries faster the first time.
